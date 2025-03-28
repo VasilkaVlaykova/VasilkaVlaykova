@@ -4,7 +4,7 @@
   
 - 📫 How to reach me www.linkedin.com/in/vasilka-vlaykova-a0ba792b9
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Addicted to learn new skills.
+- ⚡ Fun fact: Addicted to learning new skills.
 
 <!---
 VasilkaVlaykova/VasilkaVlaykova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
