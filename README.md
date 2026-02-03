@@ -1,4 +1,4 @@
-## Hi, I’m Vasilka 👋
+## Hi, I’m Vasilka Vlaykova 👋
 
 🎓 **BSc Computing student** with a strong interest in **Data Analysis/Science** and data-driven problem solving.
 
