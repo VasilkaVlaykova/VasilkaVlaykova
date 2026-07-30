@@ -11,7 +11,7 @@
 - Natural Language Processing
 - Git & GitHub for version control and collaboration  
 
-📊 I use GitHub to document my learning journey, coursework, and practical projects as I grow toward a **Data Analyst / Junior Data Analyst** role.
+📊 I use GitHub to document my learning journey, coursework, and practical projects as I grow toward a ** Junior Data Scientist / Junior System Design Architecture** role.
 
 🔗 **Connect with me:**  
 - LinkedIn: https://www.linkedin.com/in/vasilka-vlaykova-a0ba792b9
