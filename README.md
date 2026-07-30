@@ -1,6 +1,6 @@
 ## Hi, I’m Vasilka Vlaykova 👋
 
-🎓 **BSc Computing student** with a strong interest in **DataScience/ Artificial Intelligence** and data-driven problem solving.
+🎓 **BSc Computing student** with a strong interest in **Data Science/ Artificial Intelligence** and data-driven problem solving.
 
 🔍 I am building a solid foundation in:
 - Data analysis and data interpretation  
